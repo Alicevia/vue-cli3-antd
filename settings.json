@@ -1,0 +1,25 @@
+{
+  "terminal.integrated.rendererType": "dom",
+  "editor.fontSize": 20,
+  "editor.tabCompletion": "on",
+  "vetur.format.options.tabSize": 2,
+  "editor.detectIndentation": false,
+  "emmet.triggerExpansionOnTab": true,
+  "explorer.confirmDelete": false,
+  "sync.gist": "caf9b58526ae4e365e6ae054816dc500",
+  "editor.tabSize": 2,
+
+  "path-intellisense.mappings": {
+    "@": "${workspaceRoot}/src",
+    "home": "${workspaceRoot}/src/views/home"
+  },
+  
+  "stylusSupremacy.insertColons": false, 
+  "stylusSupremacy.insertSemicolons": false, 
+  "stylusSupremacy.insertBraces": false, 
+  "stylusSupremacy.insertNewLineAroundImports": false,
+  "stylusSupremacy.insertNewLineAroundBlocks": false,
+  "workbench.colorTheme": "Monokai"
+}
+
+//将这段复制到path intellisense配置中
